@@ -1,0 +1,14 @@
+Scripts/
+Lib/
+
+instance/
+
+venv2/
+.vscode/
+
+*.pyc
+__pyache__/
+
+dist/
+build/
+*.egg-info/
